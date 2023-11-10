@@ -20,7 +20,7 @@ export const Social = () => {
       <a
         className="home_social-icon"
         target="_blank"
-        href="https://www.github.com/"
+        href="https://www.github.com/bereketdinku"
       >
         <i class="uil uil-github-alt"></i>
       </a>
