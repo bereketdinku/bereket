@@ -33,7 +33,9 @@ const Contact = () => {
             <div className="contact_card">
               <i className="bx bx-mail-send contact_card-icon"></i>
               <h3 className="contact_card-title">Email</h3>
-              <span className="contact_card-data">bereketdinku@gmail.com</span>
+              <span className="contact_card-data">
+                bereketdinku80@gmail.com
+              </span>
               <a href="" className="contact_button">
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact_button-icon"></i>
