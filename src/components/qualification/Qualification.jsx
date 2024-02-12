@@ -60,3 +60,4 @@ export const Qualification = () => {
     </section>
   );
 };
+export default Qualification
