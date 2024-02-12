@@ -6,6 +6,7 @@ export const projectsData = [
     desc: "E-commerce website built with react and redux",
     category: "web",
   },
+  
   {
     id: 2,
     title: "AI powered Mobile APP",
@@ -40,6 +41,13 @@ export const projectsData = [
     img: "/nikeclone.jpg",
     category: "app",
     desc: "The chatbot design to help people with mental health problem.It design with machine learning and python UI.",
+  },
+  {
+    id: 7,
+    title: "Hotel Booking Web",
+    img: "/home.PNG",
+    category: "web",
+    desc: "It is hotel booking website with the feature of for display list hotel,hotel detail and booking.And also it also adding new hotel and room.It design using nextjs,auth next ,clerck,tailwindcss,prisma and mongodb ",
   },
 ];
 
