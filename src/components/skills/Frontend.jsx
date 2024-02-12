@@ -46,6 +46,13 @@ const Frontend = () => {
               <span className="skills_level">Intermediate</span>
             </div>
           </div>
+          <div className="skills-data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills_name">NextJs</h3>
+              <span className="skills_level">Intermediate</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -12,7 +12,9 @@ export const About = () => {
         <img src={AboutImg} alt="" className="about_img" />
         <div className="about_data">
           <Info />
-          <p className="about_description"></p>
+          <p className="about_description">
+            FullStack developer,
+          </p>
           <a download="" href={CV} className="button button--flex" >
             Download CV
             <svg

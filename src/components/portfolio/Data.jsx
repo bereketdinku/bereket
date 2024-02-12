@@ -49,6 +49,20 @@ export const projectsData = [
     category: "web",
     desc: "It is hotel booking website with the feature of for display list hotel,hotel detail and booking.And also it also adding new hotel and room.It design using nextjs,auth next ,clerck,tailwindcss,prisma and mongodb ",
   },
+  {
+    id: 8,
+    title: "Dating Mobile App",
+    img: "/dating.jpg",
+    category: "app",
+    desc: "It is hotel booking website with the feature of for display list hotel,hotel detail and booking.And also it also adding new hotel and room.It design using nextjs,auth next ,clerck,tailwindcss,prisma and mongodb ",
+  },
+  {
+    id: 8,
+    title: "Coffee Mobile App",
+    img: "/coffee.jpg",
+    category: "app",
+    desc: "It is hotel booking website with the feature of for display list hotel,hotel detail and booking.And also it also adding new hotel and room.It design using nextjs,auth next ,clerck,tailwindcss,prisma and mongodb ",
+  },
 ];
 
 export const projectsNav = [

@@ -44,21 +44,21 @@ const Services = () => {
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    develop the user interface
+                    Develop the user interface
                   </p>
                 </li>
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">develop the API</p>
+                  <p className="services_modal-info">Develop the API</p>
                 </li>
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">develop the backend</p>
+                  <p className="services_modal-info">Develop the backend</p>
                 </li>
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    develop the state management
+                    Develop the state management
                   </p>
                 </li>
               </ul>
@@ -97,21 +97,21 @@ const Services = () => {
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    develop the user interface
+                    Develop the user interface
                   </p>
                 </li>
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">develop the API</p>
+                  <p className="services_modal-info">Develop the API</p>
                 </li>
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
-                  <p className="services_modal-info">develop the Backend</p>
+                  <p className="services_modal-info">Develop the Backend</p>
                 </li>
                 <li className="services_modal-service">
                   <i className="ui uil-check-circle services_modal-icon"></i>
                   <p className="services_modal-info">
-                    develop the state mangement
+                    Develop the state mangement
                   </p>
                 </li>
               </ul>

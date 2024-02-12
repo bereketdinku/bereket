@@ -6,9 +6,9 @@ export const Social = () => {
       <a
         className="home_social-icon"
         target="_blank"
-        href="https://www.instagram.com/"
+        href="https://www.linkedin.com/in/bereket-dinku-4a0332297/"
       >
-        <i class="uil uil-instagram"></i>
+        <i class="uil uil-linkedin"></i>
       </a>
       <a
         className="home_social-icon"

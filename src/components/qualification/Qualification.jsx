@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./qualification.css"
 export const Qualification = () => {
   return (
     <section className="qualification section">
@@ -20,11 +20,38 @@ export const Qualification = () => {
           <div className="qualification_content">
             <div className="qualification_data">
               <div>
-                <h3 className="qualification_title"></h3>
-                <span className="qualification_subtitle"></span>
+                <h3 className="qualification_title">Flutter and Nodejs Developer</h3>
+                <span className="qualification_subtitle">
+                  Roshan Technology
+                </span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calender-alt"></i>
+                  <i className="uil uil-calender-alt">
+                  Nov 2023 - Dec 2023 
+                  </i>
                 </div>
+              </div>
+              <div>
+                <span className="qualification_rounder"></span>
+               <div className="qualification_line"></div>
+
+              </div>
+            </div>
+            <div className="qualification_data">
+              <div>
+                <h3 className="qualification_title">Mobile app Developer</h3>
+                <span className="qualification_subtitle">
+                  Atlas Computer Technology
+                </span>
+                <div className="qualification_calender">
+                  <i className="uil uil-calender-alt">
+                  Dec 2023 - Present
+                  </i>
+                </div>
+              </div>
+              <div>
+                <span className="qualification_rounder"></span>
+               <div className="qualification_line"></div>
+
               </div>
             </div>
           </div>
