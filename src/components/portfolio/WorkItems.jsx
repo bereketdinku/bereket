@@ -9,9 +9,9 @@ const WorkItems = ({ item }) => {
     <div className="work_card" key={WorkItems.id}>
       <img src={item.img} alt="" className="work_img" />
       <h3 className="work_title">{item.title}</h3>
-      <a href="" className="work_button" onClick={() => toggleTab(1)}>
+      <span href="" className="work_button" onClick={() => toggleTab(1)}>
         View more <i className="bx bx-right-arrow-alt work_button-icon"></i>
-      </a>
+      </span>
       <div
             className={
               toggleState === 1
