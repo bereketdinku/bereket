@@ -24,7 +24,9 @@ const WorkItems = ({ item }) => {
                 onClick={() => toggleTab(0)}
                 className="uil uil-times services_modal-close"
               ></i>
-              <h3 className="services_modal-title"></h3>
+              <h3 className="services_modal-title">
+                {item.title}
+              </h3>
               
               <ul className="services_modal-services grid">
                 <li className="services_modal-service">

@@ -47,7 +47,7 @@ export const projectsData = [
     img: "/home.PNG",
     category: "web",
     desc: "It is hotel booking website with the feature of for display list hotel,hotel detail and booking.And also it also adding new hotel and room. ",
-   tecg:"Next Js,tailwindcss,Prisma,clerck,and mongodb"
+   tech:"Next Js,tailwindcss,Prisma,clerck,and mongodb",
   },
   {
     id: 8,
