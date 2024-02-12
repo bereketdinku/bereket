@@ -13,7 +13,7 @@ export const About = () => {
         <div className="about_data">
           <Info />
           <p className="about_description">
-            FullStack developer,
+          I am Fullstack web and app developer.I have experience as freelace mobile developer.and also fulltime mobile app developer.
           </p>
           <a download="" href={CV} className="button button--flex" >
             Download CV

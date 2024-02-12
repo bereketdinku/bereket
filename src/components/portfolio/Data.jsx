@@ -57,7 +57,7 @@ export const projectsData = [
     desc: "It is hotel booking website with the feature of for display list hotel,hotel detail and booking.And also it also adding new hotel and room.It design using nextjs,auth next ,clerck,tailwindcss,prisma and mongodb ",
   },
   {
-    id: 8,
+    id: 9,
     title: "Coffee Mobile App",
     img: "/coffee.jpg",
     category: "app",

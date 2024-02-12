@@ -56,7 +56,7 @@ export const Data = () => {
         </svg>
       </h1>
       <h3 className="home_subtitle">Full-Stack Developer</h3>
-      <p className="home_description">I am Fullstack web and app developer.I have experience as freelace mobile developer.and also fulltime mobile app developer.</p>
+      <p className="home_description"></p>
       <a href="#contact" className="button button--flex">
         Hello
         <svg
